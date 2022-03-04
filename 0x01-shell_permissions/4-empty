@@ -1,1 +1,2 @@
-script that create a new file hello
+#!/bin/bash
+touch hello
