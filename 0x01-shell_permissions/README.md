@@ -1,1 +1,1 @@
-script that print all the group current user is part of
+script that add execute permssion to the user hello
